@@ -1,4 +1,4 @@
-# 🎂 Happy Birthday Riya — Interactive Birthday Website
+# 🎂 Happy Birthday — Interactive Birthday Website
 
 A heartfelt, multi-page interactive birthday website built with vanilla HTML, CSS, and JavaScript. Features animated pages, background music, photo galleries, and smooth page transitions — all crafted with love.
 
