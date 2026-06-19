@@ -2,7 +2,7 @@
 
 A heartfelt, multi-page interactive birthday website built with vanilla HTML, CSS, and JavaScript. Features animated pages, background music, photo galleries, and smooth page transitions — all crafted with love.
 
-**🌐 Live Demo → [happy-birthday-riyaa.netlify.app]( https://rajkishan01.github.io/birthday-project/)**
+**🌐 Live Demo → [Click here to see the Website]( https://rajkishan01.github.io/birthday-project/)**
 
 ---
 
